@@ -10,9 +10,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/Luan-Rockenbach">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Rockenbach&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Rockenbach&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/luanrockenbach">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanrockenbach&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrockenbach&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 <div style="display: inline_block", align="center"><br>
